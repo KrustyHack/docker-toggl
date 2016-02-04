@@ -4,7 +4,7 @@ Run toggl in a docker container.
 At Docker Image Library: https://hub.docker.com/r/webcoreit/toggl/
 
 ## Warning
-_This is a WIP and is bleading edge_ :feelsgood:
+_This is a WIP and is bleeding edge_ :feelsgood:
 
 There are some QT5 problems. Resizing the window "fixes" them.
 
